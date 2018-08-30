@@ -1,0 +1,14 @@
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+/* COLOR CSS 1*/
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+.color_primary {color: #ff7af1;}
+.bg-color_primary {background-color: #ff7af1;}
+.color_second {color: #1ea1fd;}
+.bg-color_second {background-color: #1ea1fd;}
+
+.color_primary_hov:hover {color: #ff7af1;}
+.bg-color_primary_hov:hover {background-color: #ff7af1;}
+.color_second_hov:hover {color: #1ea1fd;}
+.bg-color_second_hov:hover {background-color: #1ea1fd;}
